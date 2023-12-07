@@ -1,2 +1,1 @@
-# Thinkful-Project-2
-Graded task #2
+# starter-pete-thinkful-portfolio
