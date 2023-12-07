@@ -19,7 +19,7 @@ Authors
 - [Classes module](https://www.thinkful.com/)
 - [Box Model module](https://www.thinkful.com/)
 - [The flex box and flex property](https://www.thinkful.com/)
-- [CSS]https://www.w3schools.com/w3css/defaulT.asp
+- [CSS](https://www.w3schools.com/w3css/defaulT.asp)
 
 # Used By
 This project is used by the following company:
