@@ -96,7 +96,9 @@ img {
   flex-direction: row;
   flex: 1;
 }
-
+.image-section p{
+  font-size: 14px;
+}
 /* Footer */
 footer {
   text-align: center;
